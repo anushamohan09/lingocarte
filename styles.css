@@ -98,6 +98,9 @@ header { position: sticky; top: 0; z-index: 200; }
 .teach-card h3 { font-size: 1.1rem; font-weight: 600; color: var(--navy); margin-bottom: 0.65rem; }
 .teach-card p { font-size: 0.9rem; font-weight: 300; color: var(--navy); opacity: 0.75; line-height: 1.65; }
 
+.courses-callout { text-align: center; font-size: clamp(1.05rem, 1.8vw, 1.25rem); font-weight: 300; color: var(--off-white); opacity: 0.88; line-height: 1.65; margin-top: 2.5rem; max-width: 680px; margin-left: auto; margin-right: auto; }
+.courses-callout em { font-style: italic; font-weight: 600; color: var(--gold); opacity: 1; }
+
 /* WHY LINGOCARTE */
 .why-section { background: var(--warm-grey); }
 .why-section .section-tag { color: var(--coral); }
